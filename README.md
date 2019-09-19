@@ -17,4 +17,4 @@ plugin functionality
   </ul>
   
   p/s
-  anyone can`t publish, view post type 'bets'
+  no one except admin can`t publish, view post type 'bets'
